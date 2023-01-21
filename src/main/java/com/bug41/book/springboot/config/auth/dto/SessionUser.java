@@ -2,6 +2,7 @@ package com.bug41.book.springboot.config.auth.dto;
 
 import com.bug41.book.springboot.domain.user.User;
 import lombok.Getter;
+import org.springframework.context.annotation.ScopedProxyMode;
 
 import java.io.Serializable;
 
